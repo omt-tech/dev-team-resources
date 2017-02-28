@@ -1,4 +1,4 @@
-# OMT Tech Development Team Resources
+# OMT Tech's Development Team's Resources Repo
 
 Our company has good smart people. Let's keep it that way?
 
